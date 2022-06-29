@@ -1,0 +1,7 @@
+-Chat demo:https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native
+-Chat demo:https://blog.logrocket.com/build-chat-app-react-native-gifted-chat/
+
+ "@react-navigation/native-stack"
+ 
+ To check the version of libs
+ npm list react-native-safe-area-context
